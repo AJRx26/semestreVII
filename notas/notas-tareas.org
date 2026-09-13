@@ -1,0 +1,24 @@
+#+title: Tareas de Séptimo Semestre
+
+* Materia
+** Proyecto Guiado
+*** 26/Agosto/2026
+- Buscar tres trabajos que formen parte de los antecedentes de tu tema.
+- Responder por qué ese trabajo es relevante para la investigación.
+- Escribir un párrafo que resuma la contribución de cada antecedente.
+- Debe de incluir los autores, el titulo del trabajo, el objetivo, la metodología, los resultados y conclusiones.
+- Redacta los resúmenes en un archivo de Word con texto justificado.
+
+** Programación segura
+*** 26/Agosto/2026
+- Basándose en los conceptos vistos en clase, estructura un plan de seguridad y responde las siguientes preguntas:
+  - Si pudieras elegir una sola regla obligatoria para todo el equipo de desarrollo ¿Cuál seria y por qué?
+  - Si el tiempo fuera limitado y hubiese múltiples fallas, ¿Cómo decidirías que problema de seguridad atender primero?
+
+** Protección de servicios
+
+** Apreciación del cine
+
+** Proyecto - Protocolo de investigación
+*** 27/Agosto/2026
+- Corregir los antecedentes, problemática y hacer la parte de objetivos, preguntas de investigación e incluso la justificación

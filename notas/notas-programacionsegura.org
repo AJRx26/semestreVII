@@ -1,0 +1,33 @@
+#+title: Notas - Programación Segura
+
+* Introducción
+- Contacto: ...
+
+* Evaluación
+- Proyecto: 50%
+- Tareas: 20%
+- Exámenes: 20% (dos parciales, con calificación mínima de 6)
+- Actividad en clase: 10%
+
+* Introducción
+- Que es la seguridad?
+- Que es la ciberseguridad?
+- En que se diferencia la seguridad con la ciberseguridad?
+
+** Actividad
+- Ingrese a la pagina web "", y responde lo siguiente:
+
+  1. Que son los ataques de inyección?
+     - Es un tipo de ataque donde un atacante ingresa información incorrecta/invalida en una aplicación web con el fin de generar un resultado o respuesta inesperada.
+
+  2. Que son los ataques de autenticación rota?
+     - Son los ataques que explotan los mecanismos de gestión de sesiones (que pueden ser defectuosos o mal implementados) de un sistema para obtener acceso no autorizado.
+
+  3. Identifiquen que es lo que la mayoría de los ataques tienen en común
+     - Suelen aprovecharse de defectos u errores en las implementaciones de aplicaciones web.
+
+  4. Identifiquen al menos un caso real por cada vulnerabilidad
+     -
+
+  5. Como se pueden prevenir?
+     -

@@ -1,0 +1,130 @@
+#+title: Notas Proyectoguiado
+
+* Protocolo de investigación
+- Define el tema por investigar, asi como los motivos por los cuales se aborda.
+- Incluye la importancia del tema, el objetivo que se desea lograr, indice de los fundamentos, los metodos por utilizar, el tiempo y recursos requeridos.
+
+** Partes del protocolo
+- Antecedentes
+- Planteamiento o definición del problema
+- Objetivos
+- Justificación
+- Alcances y limitaciones
+- Marco teorico
+- Metodo
+- Indice tentativo
+- Cronograma de actividades
+
+*** Antecedentes
+- Es el contacto inicial con tu lector.
+- Su redacción debe ayudarlo a familiarizarse con el problema.
+- Una redacción de antecedentes debe de ir de lo general a lo particular.
+- Cuenta con conceptos y trabajos relacionados.
+
+- Las funciones de la revisión de antecedentes son dos:
+  1. Contribuir al enriquecimiento conceptual del investigador, es decir, ayudar a precisar mejor la formulación del problema y la hipotesis.
+  2. Actualizar al investigador respecto a los debates teóricos, y las técnicas de recolección y análisis de datos que se utilizan.
+
+- Es importante ser conciso en los antecedentes.
+- No hay mínimos ni máximos en cuanto al numero de paginas.
+- Debe de contener las paginas necesarias para desarrollar adecuadamente el trabajo.
+
+- Busqueda y organización
+  - Usar las bases de datos científicas para buscar antecedentes.
+  - En listar las investigaciones sobre el tema de estudio.
+  - Ser cuidadosos
+- Sintesis
+  - Hacer un resumen de cada investigación que pueda responder a las siguientes preguntas:
+    - Quienes son los autores?
+    - En que año se ha publicado?
+    - Cual fue el objetivo?
+    - Que metodología emplearon?
+    - Que encontraron y concluyeron?
+  - Diferenciar entre una investigación empírica de aquellos que solo son comentarios publicados.
+  - Los antecedentes sirven para ver que tan novedoso es el tema que investigas y que tanto se sabe sobre el.
+  - Si no existen muchas investigaciones empíricas sobre el tema, buscar los trabajos similares más cercanos.
+- Redacción
+  - Redactar los antecedentes ordenandolos por algún criterio.
+  - Un criterio puede ser cronologia, ubicación, conclusiones, etc.
+  - Siempre usar el estilo APA para redactar los antecedentes, (autor, año).
+  - No uses más de un párrafo para un antecedente. Esto facilitara la lectura.
+  - Incluir un resumen de todo lo encontrado como un tipo de presentación.
+  - Los antecedentes deben de terminar con una oración de transición que guie al lector con naturalidad al problema de investigación.
+
+*** Problemática
+- Encontrar el enunciado del problema es más trascendente que su solución.
+- Es más importante plantear el problema con claridad.
+- El problema le da dirección y rumbo al trabajo.
+- Tenerlo presente permite mantener la dirección indicada.
+
+- Cada sección necesita estar ligada de manera fluida con la sección anterior.
+- Los antecedentes deben de definir el problema.
+- Se puede usar un párrafo o frase introductoria.
+- Se debe sintetizar la información para comprender el problema.
+- Se debe de sintetizar la información comprender el problema.
+- Evitar lo tedioso de un trabajo extenso y un choque con detalles técnicos.
+- Redactar el problema con claridad, como aseveración o pregunta.
+
+- Redactar apoyándose en fuentes de información seria.
+- Contextualiza el problema.
+- Si es posible, describe su magnitud en cifras.
+- Describe variables que dan origen o explican.
+
+*** Objetivos de la investigación
+- El objetivo viene directamente de la definición del problema.
+- El problema es el "qué estudiar", mientras el objetivo es el "qué se quiere obtener".
+- El objetivo es el producto de tu investigación.
+
+*** Justificación de la investigación
+- Cuales son los beneficios y por qué?
+- Quienes sera los beneficiados y por qué?
+- Que se prevé cambiar con la investigación?
+- Cual es su utilidad social, económica, administrativa, ética o científica?
+- Por qué es significativa la investigación?
+- Qué aportará este trabajo?
+
+- Presenta un punto de vista de manera lógica.
+- Explica la evidencia que apoya la importancia de tu problema especifico.
+- Redacta para que tu investigación sea útil a tus lectores.
+
+- NO se debe de indicar los resultados traerán beneficios.
+- NO justifica los resultados ya que aun no los tienes.
+- Puedes exponer que utilidad tendrán o como contribuirán a la estructura del conocimiento existente o a una aplicación concreta.
+
+*** Alcances y limitaciones
+- Se refiere a los limites dentro de los cuales se desarrollará el estudio.
+- Define qué se investigara y que no se investigará, y hasta donde llegara el estudio en términos de profundidad, extensión y cobertura.
+- Es fundamental delimitar el área de estudio y garantizar que el proceso de investigación sea manejable y enfocado.
+
+- Las limitaciones de una investigación se refieren a aspectos o condiciones que pueden afectar o restringir la validez y generalización de los resultados obtenidos.
+- Pueden surgir debido a diversos factores inherentes al diseño de la investigación
+
+*** Método
+- El camino conducente a una meta que esta determinado por las reglas que fijan las operaciones que deban realizarse para alcanzar un fin.
+- El método científico es el procedimiento o conjunto de procedimientos que se utilizan para comprender, explicar, describir o predecir un fenómeno; constituye el modo de proceder para lograr los objetivos de la investigación.
+
+**** Estructura de un método documental
+- Estrategia de busqueda: Términos, periodo, idioma, adaptación por base.
+- Fuentes: Bases, revistas, repositorios o guías técnicas.
+- Criterios: Inclusión, exclusión y calidad, cuando aplique.
+- Extracción: Que datos se extraeran de cada estudio.
+- Sintesis: Como se agruparan, compararan o interpretaran los hallazgos.
+
+*** Marco teórico
+- Conjunto de conceptos, teorías, términos, etc.
+  1. Diagrama con la organización del marco teórico.
+  2. Descripciones de los conceptos.
+
+
+** Protocolo
+1. Antecedentes
+2. Planteamiento o definición del problema
+3. Objetivos (General y específicos)
+4. Preguntas de investigación - Platicar con tu director
+5. Justificación
+6. Alcances y limitaciones
+7. Marco teórico
+8. Método de investigación - Platicar con tu director
+9. Contenido tentativo
+10. Cronograma
+11. Referencias

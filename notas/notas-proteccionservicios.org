@@ -1,0 +1,13 @@
+#+title: Notas - Protección de Servicios
+
+* Introducción
+-
+
+* Control
+- Es una medida que se implementa para modificar o reducir un riesgo.
+- Ejemplo: Un servidor que tiene SSH expuesto. Se detectan intentos automatizados contra cuentas de usuario.
+
+- Infraestructura: Proporciona un servicio se necesita un conjunto de componentes tecnológicos, físicos, lógicos y humanos que lo hacen posible.
+
+** Controles implementarían para reducir un riesgo
+-
