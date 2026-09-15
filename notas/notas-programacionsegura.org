@@ -31,3 +31,27 @@
 
   5. Como se pueden prevenir?
      -
+
+* Que son las tendencias de ciberseguridad?
+- Son los cambios en la forma en que ocurren los ataques y como la tecnologia evoluciona para enfrentarlos. No son modas, sino respuestas a  nuevas formas de vulnerar los sistemas.
+
+- Nos enseñan que la seguridad no es estatica, los metodos que funcionaban hace pocos años ya no son suficientes frente a ciberdelicuentes más organizados y automatizados.
+
+- Es una preocupación constante para las organizaciones y empresas, ya que deben resistir los ataques mientras que siguen operando y cuidan los datos privados.
+
+- Existe una tendencia hacia el internet de las cosas, donde con el paso del tiempo las vulnerabilidades de seguridad pueden ser una verdadera amenaza directa para la vida e integridad de las personas.
+
+- Las tendencias de nuevos escenarios de ciberterrorismo incrementan y no solo las empresas pueden peligrar.
+
+- Por esto mismo se necesita gente preparada que pueda defender estas amenazas.
+
+* Seguridad y sus elementos
+- Un plan de seguridad involucra los siguientes aspectos:
+  1. Sentar bases: Definir que se va a hacer y como se va a hacer, establecer el rumbo del proyecto.
+  2. Establecer equipos: Se asignan responsabilidades claras para saber quien se encargará de revisar la seguridad, documentación, base de datos, hablar con el clientes, evitando que sea tarea de una unica persona.
+  3. Establecer una postura de base de seguridad: Definir el minimo obligatorio que debe de tener tu proyecto o aplicación antes de que empiece a crecer.
+  4. Evaluación de amenazas y riesgos: Se analiza que le puede fallar al software o a la infraestructura y cuales son los puntos debiles a los que se enfrenta el proyecto.
+  5. Priorización: Se ordenan los problemas encontrados para decidir que se debe solucionar primero y justificar por que.
+  6. Creación de hitos: Se establecen fechas limites y metas claras en el calendario del proyecto para medir el avance de la seguridad.
+  7. Realizar simulacros y ejercicios basados en casos: Poner a pruebas las defensas de tu sistema y la capacidad de reacción del equipo mediante pruebas practicas que imiten casos reales.
+  8. Expansión y mejora continua de los equipos de seguridad: Entender que la ciberseguridad nunca es un proyecto que se "termina" y se archiva, sino un proceso de aprendizaje y crecimiento constante que debe de evolucionar a la par de la tecnologia y de las personas.
