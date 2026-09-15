@@ -1,5 +1,181 @@
 #+title: Notas Proyectoguiado
 
+* Objetivo
+- Desarrollar un protocolo de investigación y una revisión sistemática de literatura con el debido rigor y calidad científica en el campo de la ciberseguridad e infraestructura de computo, a través de la compresión del proceso de investigación científica, con alto sentido de responsabilidad, con tolerancia y apertura para desarrollar un proyecto de investigación.
+
+* Evaluación
+- Solo ordinario + seminario de ciberseguridad
+
+* Actividades
+- Exposición del profesor
+- Ejercicios de reflexión
+- Ejercicios prácticos
+- Presentación de avances
+- Desarrollo de documentos
+- No hay exámenes parciales o finales
+- Habrá múltiples presentaciones a lo largo del curso
+
+* Criterios de evaluación
+- Protocolo de investigación: 20%
+- Protocolo de revisión sistemática: 10%
+- Reporte de revisión sistemática: 20%
+- Trabajo en clase: 15%
+- Exposición en clase: 15%
+- Retroalimentación a compañeros: 5%
+- Seminario de investigación CIC: 15%
+
+* Calendario
+- 3° semana de Agosto - 2° semana de Diciembre
+
+** Presentación de avances
+  - 1° entrega - 4° semana de Septiembre
+  - 2° entrega - 2° semana de Noviembre
+  - 3° entrega - 2° semana de Diciembre
+
+* Que es investigar?
+- Estudiar sistemáticamente un fenómeno para generar conocimiento.
+- Una investigación parte de una pregunta que todavía no tiene una respuesta.
+- El objetivo no es recopilar datos, es producir evidencia como respuesta.
+- Debe seguir procedimientos que puedan sustentar sus conclusiones.
+- En ciberseguridad, se pueden estudiar por que ocurren ciertos incidentes.
+- En infraestructura, se puede analizar que factores afectan a un servidor.
+
+* Que es un trabajo de investigación?
+- Un trabajo de investigación comunica como se estudio un problema.
+- También presenta la evidencia obtenida durante el proceso.
+- Sus resultados deben responder las preguntas que orientaron el estudio.
+- Su estructura permite comprender como se obtuvieron las conclusiones.
+- Por ello, investigar no consiste simplemente en recopilar información.
+
+* Tres formas de investigar
+- El enfoque cuantitativo estudia fenómenos mediantes variables y medidas.
+- El enfoque cualitativo busca comprender experiencias y significados.
+- El enfoque mixto combina elementos cuantitativos y cualitativos.
+- Cada enfoque permite aproximarse al fenómeno de manera diferente.
+- La elección depende del problema y de aquello que queremos conocer.
+
+** Enfoque cuantitativo
+- Busca medir fenómenos mediantes variables y datos numéricos.
+- Utiliza procedimientos estadísticos para analizarlos los datos obtenidos.
+- Parte del planteamiento que pueden delimitarse y medirse.
+
+** Enfoque cualitativo
+- Busca comprender fenómenos desde las experiencias de quienes los viven.
+- Analiza significados, percepciones y comportamientos dentro del contexto.
+- Puede utilizar entrevistas, observaciones y documentos como fuentes.
+
+** Enfoque mixto
+- Combina información cuantitativa y cualitativa para estudiar un fenómeno.
+- Permite medir la magnitud de un problema y comprender sus características.
+- Cada enfoque aporta información diferente sobre el mismo fenómeno.
+- La combinación debe responder a una necesidad del problema estudiado.
+
+* Hasta donde se quiere llegar?
+- El enfoque indica como se aproxima el fenómeno que se ha estudiado.
+- El alcance indica hasta donde se quiere llegar con la investigación.
+- Se pueden explorar, describir, relacionar o explicar un fenómeno.
+- El alcance debe ser coherente con las preguntas y los objetivos.
+
+- Los alcances se pueden combinar:
+  - Una investigación puede comenzar explorando un fenómeno poco conocido.
+  - Despues puede describir sus características con mayor precisión.
+  - Los alcances no deben entenderse como categorías aisladas.
+
+- La pregunta determina el enfoque del trabajo.
+
+** Exploratorio
+- Busca estudiar problemas sobre los que todavía son poco conocidos.
+- Permite familiarizarnos con fenómenos que todavía no comprendemos.
+- Ayuda a identificar conceptos y variables relevantes para estudiarlos.
+- Puede servir como punto de partida para investigaciones posteriores.
+
+** Descriptivo
+- Busca determinar como se presenta un fenómeno en un contexto.
+- Permite identificar sus características y medir diferentes aspectos.
+- No pretende explicar necesariamente por que ocurre el fenómeno.
+- Puede mostrar la frecuencia con que ocurre determinados eventos.
+
+** Alcance correlacional
+- Busca determinar si existe relación entre dos o más variables.
+- Permite conocer como se comportan variables que están asociadas.
+- Una relación entre variables no demuestra que una cause a la otra.
+- Puede utilizarse para identificar patrones que permiten realizar predicciones.
+
+** Explicativo
+- Busca explicar por que ocurre un fenómeno y bajo que condiciones.
+- Pretende identificar factores que permiten comprender sus causas.
+- Requiere una estrategia más estructurada que los alcance anteriores.
+- Puede estudiar como una variable produce cambios en otra.
+
+* Del problema a la investigación
+- Una idea inicial debe convertirse en un problema que pueden estudiarse.
+- El problema se concreta mediante preguntas y objetivos de investigación.
+- El enfoque determina como nos aproximaremos al fenómeno.
+- El alcance determina hasta donde pretendemos llegar.
+- La metodología define como obtendremos la evidencia necesaria.
+- Los resultados permiten responder las preguntas planteadas.
+
+* Trabajo recepcional
+- Demuestra las capacidades desarrolladas durante su formación.
+- Cada modalidad establece una forma diferente de abordar un problema.
+- La elección depende del propósito, alcance y tipo de contribución.
+- En ingeniería, el trabajo puede generar conocimiento, analizarlo o aplicarlo.
+- La UV oferta seis modalidades u opciones de trabajos recepcionales.
+
+** Tesis
+- Es un trabajo que desarrolla una investigación con carácter propositivo.
+- Parte de un problema y plantea una propuesta que será estudiada.
+- Utiliza procedimientos sistemáticos para obtener y analizar evidencia.
+- Presenta resultados que permiten sustentar conclusiones del problema.
+- Requiere una contribución original dentro del campo de estudio.
+
+** Tesina
+- Investigación principalmente teórica centrada en un tema o problema.
+- Analiza diferentes perspectivas, enfoques o propuestas sobre el tema.
+- Se apoya principalmente en la revisión y análisis de fuentes especializadas.
+- Su principal aportación consiste en una posición critica por el autor.
+- No requiere probar una hipotesis mediante experimentación.
+
+** Monografía
+- Estudio exhaustivo de un tema especifico dentro de un área.
+- Organiza y analiza información especializada con profundidad y rigor.
+- El propósito es desarrollar una compresión amplia y estructurada del tema.
+- No requiere formular una propuesta o comprobar una hipotesis.
+- La aportación depende de la selección, organización y tratamiento de fuentes.
+
+- Ejemplo: Arquitecturas de seguridad para sistemas de computo en la nube.
+  - Se revisan conceptos, arquitecturas, mecanismos y estándares relevantes.
+  - Se organizan los conocimientos existentes para presentar una visión integral.
+
+- Recomendación: Párrafos de 5 a 7 lineas, siendo el limite 8 o 9 lineas.
+- Cuando se usa palabras como "es más común" o "toma mayor relevancia" se necesita de una fuente que sustente lo dicho.
+- ; - se usa para separar dos ideas similares pero tienen.
+
+** Citas
+*** Que se cita?
+- Las palabras exactas de un autor y las de una publicación oficial. Por exactitud entendemos la identidad absoluta de palabras, puntuación, ortografía, uso de las mayúsculas, etcétera.
+
+*** Citas de 40 palabras o menos
+- Cita en medio de la oración:
+- Gestor de referencias
+
+*** Referencias bibliográficas
+- El orden de las referencias se realiza alfabéticamente
+- Las referencias múltiples de un mismo autor se ordenan cronológicamente
+- Si las referencias incluyen diferentes autores con el mismo apellido e inicial, se puede...
+
+** Sistemas gestores de referencias
+1. Mendeley
+   - Complemento en Word
+   - Mendeley web importer
+   - Cuenta en Elsevier
+
+2. Zotero
+   - Software para pc
+   - Instalación local
+   - Complemento para navegador
+   - Complemento para el procesador de texto
+
 * Protocolo de investigación
 - Define el tema por investigar, asi como los motivos por los cuales se aborda.
 - Incluye la importancia del tema, el objetivo que se desea lograr, indice de los fundamentos, los metodos por utilizar, el tiempo y recursos requeridos.
