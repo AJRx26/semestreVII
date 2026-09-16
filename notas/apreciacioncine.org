@@ -98,3 +98,37 @@
 - Erich Von Stroheims
   - Greed (1924)
   - Rapiña ()
+
+** Estructuras del cine
+*** Clasica - Aristotelica
+- 3 actos
+  - Suele dividirse en 3 tiempos, por ejemplo, una pelicula de 1 hora con 30 minutos, se divide en 30 minutos.
+  1. Acto
+     - Imagen inicial
+     - Detonante
+     - Conflicto
+  2. Acto
+     - Subtramas de personajes secundarios
+  3. Acto
+     - Climax
+     - Resolucion
+
+*** Temporalidad filmica
+- La narracion filmica se desarrolla en un tiempo con duracion determinada: el de la historia y el de la proyeccion. El tiempo de la historia, el tiempo interno o diegetico puede clasificarse en:
+  - Lineal: La forma de narracion clasica que va de manera cronologica.
+
+  - Discontinua: Se reestructura del tiempo lineal que se hace a traves del montaje determinado por el orden en el que se quiere explicar las historia o los puntos de vista escogidos.
+
+    - Efecto Rashomon: Tecnica narrativa que muestra diversos puntos de vista de la misma historia. Propone el reto de contar una unica historia desde diversos puntos de vista, centrandose en las diferentes percepciones que los protagonistas tienen de un hecho.
+    - El exorcismo de Emily Rose
+    - Citizen Kane
+    - Body Shots
+    - Buzacaperuza
+
+- Alteraciones cronologicas del tiempo (Anacronias)
+  - La historia puede usar varios medios para realizar "saltos" en el tiempo, a traves de los siguientes elementos:
+    - Analepsis o flashbacks es una tecnica narrativa que consiste en interrumpir la narracion para dar un salto al pasado.
+    - Prolepsis o Flashforward es un recurso que interrumpe la historia lineal para mostrar una escena del futuro que puede o no ser real.
+    - Premonicion es un amplio salto en el futuro de la historia para regresar a la narracion inicial.
+    - Raconto el relato comienza con la parte final del desenlace y luego retrocede al planteamiento de la historia para proseguir de forma ordenada hasta el final.
+      - Tomates verdes fritos
