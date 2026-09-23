@@ -54,4 +54,56 @@
   5. Priorización: Se ordenan los problemas encontrados para decidir que se debe solucionar primero y justificar por que.
   6. Creación de hitos: Se establecen fechas limites y metas claras en el calendario del proyecto para medir el avance de la seguridad.
   7. Realizar simulacros y ejercicios basados en casos: Poner a pruebas las defensas de tu sistema y la capacidad de reacción del equipo mediante pruebas practicas que imiten casos reales.
-  8. Expansión y mejora continua de los equipos de seguridad: Entender que la ciberseguridad nunca es un proyecto que se "termina" y se archiva, sino un proceso de aprendizaje y crecimiento constante que debe de evolucionar a la par de la tecnologia y de las personas.
+  8. Expansión y mejora continua de los equipos de seguridad: Entender que la ciberseguridad nunca es un proyecto que se "termina" y se archiva, sino un proceso de aprendizaje y crecimiento constante que debe de evolucionar a la par de la tecnologia y de las personas,
+
+* DevSecOps
+- Es un framework que ayuda a los equipos de trabajo a centralizar las actividades tanto de desarrollo como de operaciones como un proceso individual.
+- Sirve para armonizar el proceso de desarrollo de software con la seguridad del mismo, considerandolo en todas las etapas de desarrollo de vida del software.
+
+- Seguridad tradicional vs seguridad moderna (Zero Trust)
+  1. Confia en usuarios dentro de la red -> Desconfia de todos, dentro y fuera de la red.
+  2. Revisa las credenciales solo al ingresar -> Verifica constantemente la identidad y el dispositivo utilizado.
+  3. Da acceso total a la red interna -> Da acceso minimo y restringido solo a lo necesario.
+
+* Vulnerabilidades
+- Es un defecto del sistema que permite a un atacante eludir las medidas de seguridad implementadas.
+- Los errores y fallos no son algo nuevo en el mundo del software, un sistema extenso y complejo puede contener una gran cantidad de fallos y estos pueden ser explotados.
+
+- Se pueden detectar mediante ejercicios como la auditoria de código, pentesting y herramientas automatizadas.
+
+- La forma de prevenir las vulnerabilidades se hace siguiento buenas practicas y teniendo conciencia de la seguridad integral del proyecto que se este elaborando.
+
+** Defectos genericos
+- Son problemas que pueden ocurrir en cualquier programa hechos en un lenguaje
+- Pueden ser problemas especificos del lenguaje. Por ejemplo, en el caso de C es propenso a vulnerabilidades de memoria y por esto mismo.
+- Las herramientas de analisis estatico de codigo
+
+- Clasificación extendida
+  - Validación de entrada y representación: Inyecciones.
+  - Abuso de API: No seguir contrato.
+  - Caracteristicas de seguridad: Información sensible visible.
+  - Manejo de errores: Dejar errores visibles.
+  - Calidad del codigo: Codigo facilmente estrésable.
+  - Encapsulación: Mal manejo de la privacidad.
+
+* Modelado de amenazas
+- Es el objetivo de un atacante, para otros autores una amenaza es el atacante mismo.
+- La idea del modelado es entender posibles amenazas de seguridad del sistema, determinar riesgos y establecer medidas de mitigación apropiadas.
+- Permite elevar la conciencia
+- El modelado de amenazas se encuentra en la etapa de diseño del software
+- Lo que significa que se debe realizar antes de las revisiones de codigo o pruebas de seguridad.
+- Es probablemente la actividad de desarrollo más importante de seguridad ya que encamina todo el desarrollo.
+- Los defectos potenciales se localizan temprano y pueden resolverse rapido de forma barata.
+
+- Metodo propuesto por el ciclo de vida de desarrollo seguro (SDL) de microsoft
+- Se utiliza como base la clasificación de riesgos STRIDE explicada más adelante.
+- Tambien se utiliza como apoyo diagramas de diseño como diagramas de flujo de datos (DFD) y diagramas de contexto.
+
+- Contribuye al proceso de manejo de riesgos porque las amenazas al software e infraestructura son riesgos para el usuario y el ambiente donde se despliega el software.
+- Permite descubrir amenazas antes que el sistema empiece
+
+- La salida principal de un proceso de modelado de amenazas es un documento que describe la información de transfondo de la aplicación.
+- El documento define el modelo de alto nivel de la aplicación, usando digramas de flujo de datos.
+
+- Lo más importante a identificar es dicho diagrama es:
+  - Escenarios de uso
