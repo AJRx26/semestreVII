@@ -291,7 +291,6 @@
   1. Diagrama con la organización del marco teórico.
   2. Descripciones de los conceptos.
 
-
 ** Protocolo
 1. Antecedentes
 2. Planteamiento o definición del problema
@@ -304,3 +303,84 @@
 9. Contenido tentativo
 10. Cronograma
 11. Referencias
+
+* Revision Sistematica de Literatura (RSL)
+- Evidence-Based Software Engineering and Systematic Reviews: B. Kitchenham, D. Budgen y P. Brereton (2015).
+- PRISMA 2020 - Guia de reporte
+
+** Por que revisar la literatura de forma sistematica?
+- Antes de proponer algo, necesitamos saber que se sabe del tema.
+- Una revision informal depende de lo que el autor encuentre y elige.
+- Dos expertos pueden llegar a conclusiones distintas sobre un tema.
+- Esto ocurre porque cada uno de selecciona fuentes diferentes.
+- Una RSL define su procedimiento antes de comenzar a buscar.
+- Asi, otra persona puede revisar el proceso y repetirlo.
+- En ciberseguridad hay muchas publicaciones y cambian rapidamente.
+
+** Tipos de estudios
+- Estudio primario: Obtiene datos directamente del objeto de interes.
+- Estudio secundario: Analiza un conjunto de estudios primarios.
+- Estudio terciario: Analiza un conjunto de estudios secundarios.
+
+** Que es una RSL?
+
+** Ventajas de una RSL
+- Ofrece una base firme para futuras investigaciones.
+- Muestra que se ha estudiado en diferentes entornos e infraestructuras.
+- Si los resultados coinciden, indica que el hallazgo es consistente.
+- Si no coinciden, permite estudiar el origen de las diferencias.
+- Identifica las areas donde hace falta la investigacion.
+
+** Retos de una RSL
+- Requiere mas esfuerzo que una revision informal.
+- Es dificil de realizar para una investigador que trabaja solo.
+- Su extension no siempre cabe en trabajos breves.
+- La realizan personas, por lo que siempre hay interpretacion.
+- Buscar, seleccionar y sintetizar implica tomar decisiones.
+- Cada decision puede introducir sesgos en los resultados.
+- Por ello, el protocolo documenta y justifica cada decision.
+
+** Proposito
+- Responde una pregunta de investigacion especifica y bien definida.
+- Sintetiza lo que reportan los estudios sobre un tema concretos.
+- Busca, por ejemplo, comparar que tecnica de deteccion funciona mejor.
+
+** Caracteristicas
+- Implica una sintesis profunda de los estudios primarios.
+- Puede ser cuantitativa o cualitativa.
+- La sintesis va desde tablas hasta un metaanalisis estadistico.
+- La busqueda es exhaustiva, pero muy enfocada.
+
+** Mapeo sistematico de literatura
+*** Proposito
+- Ofrece un panorama del conocimiento disponible sobre un tema.
+- Identifica grupos de estudios y vacios en la investigacion.
+- No responde preguntas especificas, sino que describe el campo.
+
+*** Caracteristicas
+- Se centra en categorizar y clasificar los estudios.
+- Implica un nivel de sistensis bajo, basado en agrupar.
+- La busqueda es amplia para asegurar una cobertura extensa.
+- Es ideal para analizar tendencias de investigacion.
+
+** Diferencias entre RSL y MSL
+- RSL: sintesis profunda para generar nuevo conocimiento.
+- Mapeo: Categorizacion para ofrecer una vision general del campo.
+
+- RSL: Puede dar una conclusion.
+- MSL: Da un panorama de lo investigado.
+
+- RSL: Una respuesta a una pregunta concreta, respaldada por estudios.
+- MSL: Un mapa o catalogo de la literatura existente.
+
+** RSL y trabajo recepcional
+- La RSL muestra que se sabe sobre el tema de tu trabajo.
+- Sus hallazgos alimentan los antecedentes de tu protocolo.
+- Tambien sirve de base para el estado del arte.
+- Ayuda a justificar el problema con trabajos previos.
+- Permite identificar el vacio que tu trabajo pretende atender.
+- Su pregunta debe estar alineada con el tema de tu trabajo recepcional.
+
+** Para que sirve el protocolo de RSL?
+- El protocolo es el plan detallado de la revision.
+- Se elab
