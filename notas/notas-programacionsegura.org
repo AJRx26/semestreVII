@@ -107,3 +107,21 @@
 
 - Lo más importante a identificar es dicho diagrama es:
   - Escenarios de uso
+
+- El modelado de amenazas se encuentra en la etapa de diseño del software.
+- Lo que significa que se debe realizar antes de las revisiones de codigo o pruebas de seguridad.
+
+** Preparar
+- Si se realiza mal el resto del modelado estara mal.
+- Se utilizaran diagramas de flujo de datos (DFDs) que muestra la comunicación entre procesos del sistema y entidades externas como usuarios u otros sistemas.
+- Los DFDs pueden realizarse por niveles, al nivel mas general es el nivel 0.
+
+** Diagramas de contexto
+- El sistema se identifica como un unico proceso.
+- Se identifican las entidades externas y su interacción general con el sistema atraves de flujos de datos.
+- Se identifican límites de privilegios.
+- Es importante numerar cada componente.
+- Cada flujo se etiqueta con un verbo
+
+- El cliente se acerca a una maquina expendedora introduce una moneda, presiona el botón del dulce que quiere ("A3") y espera a que la maquina le entregue su producto y su cambio.
+- El administrador abre la maquina de vez en cuando para reponer los dulces y revisar cuanto dinero queda adentro.

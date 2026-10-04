@@ -384,3 +384,35 @@
 ** Para que sirve el protocolo de RSL?
 - El protocolo es el plan detallado de la revision.
 - Se elab
+
+** Elemento de interés
+- Es dificil tener preguntas bien definidas desde el inicio.
+- Un primer paso es identificar los elementos de interes del tema.
+- Funcionan como una lluvia de ideas, sin un orden particular.
+
+- Sujetos
+- Artefactos
+- Métodos o tecnologias
+- Tarea
+- Enfoque
+- Alcance espacial
+- Alcance temporal
+
+*** De los elementos de interes al PICOC
+- Organizan los elementos de interes.
+- Kitchenham lo recomiendan para RSL en computación.
+
+- Sujetos y artefactos suelen formar la población (P).
+- Metodos o tecnologias forman la intervención (I) y la comparación (C).
+- El enfoque define los resultados que se buscan (O).
+- La tarea y los alcances forman el contexto (C).
+
+- En un mapeo, la comparación y los resultados pueden no aplicar.
+- Los elementos de PICOC se convierten en términos de búsqueda.
+
+- PICOC
+  1. Population
+  2. Intervention
+  3. Comparison
+  4. Outcomes
+  5. Context
