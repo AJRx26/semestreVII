@@ -332,32 +332,32 @@
 - Identifica las areas donde hace falta la investigacion.
 
 ** Retos de una RSL
-- Requiere mas esfuerzo que una revision informal.
-- Es dificil de realizar para una investigador que trabaja solo.
-- Su extension no siempre cabe en trabajos breves.
-- La realizan personas, por lo que siempre hay interpretacion.
+- Requiere mas esfuerzo que una revisión informal.
+- Es difícil de realizar para una investigador que trabaja solo.
+- Su extensión no siempre cabe en trabajos breves.
+- La realizan personas, por lo que siempre hay interpretación.
 - Buscar, seleccionar y sintetizar implica tomar decisiones.
-- Cada decision puede introducir sesgos en los resultados.
-- Por ello, el protocolo documenta y justifica cada decision.
+- Cada decisión puede introducir sesgos en los resultados.
+- Por ello, el protocolo documenta y justifica cada decisión.
 
-** Proposito
-- Responde una pregunta de investigacion especifica y bien definida.
+** Propósito
+- Responde una pregunta de investigación especifica y bien definida.
 - Sintetiza lo que reportan los estudios sobre un tema concretos.
-- Busca, por ejemplo, comparar que tecnica de deteccion funciona mejor.
+- Busca, por ejemplo, comparar que técnica de detección funciona mejor.
 
-** Caracteristicas
+** Características
 - Implica una sintesis profunda de los estudios primarios.
 - Puede ser cuantitativa o cualitativa.
-- La sintesis va desde tablas hasta un metaanalisis estadistico.
+- La sintesis va desde tablas hasta un metaanalisis estadístico.
 - La busqueda es exhaustiva, pero muy enfocada.
 
-** Mapeo sistematico de literatura
-*** Proposito
+** Mapeo sistemático de literatura
+*** Propósito
 - Ofrece un panorama del conocimiento disponible sobre un tema.
-- Identifica grupos de estudios y vacios en la investigacion.
+- Identifica grupos de estudios y vacíos en la investigación.
 - No responde preguntas especificas, sino que describe el campo.
 
-*** Caracteristicas
+*** Características
 - Se centra en categorizar y clasificar los estudios.
 - Implica un nivel de sistensis bajo, basado en agrupar.
 - La busqueda es amplia para asegurar una cobertura extensa.
@@ -416,3 +416,58 @@
   3. Comparison
   4. Outcomes
   5. Context
+
+** Estrategia de busqueda
+- Define donde y como se buscaran los estudios primarios.
+- Debe incluir todos los términos y conceptos relevantes del tema.
+
+1. Busqueda automatizada: bibliotecas digitales con cadenas de busqueda.
+2. Busqueda manual: revistas y congresos seleccionados.
+3. Bola de nieve: a partir de referencias y citas de los estudios.
+4. Contacto con investigadores del área, cuando aplique.
+
+- Se debe justificar como se combinan estas formas de busqueda.
+- También se describe como se validara el proceso de busqueda.
+
+*** Busqueda automatizada
+- Usa bibliotecas digitales y servicios de indexación.
+- Se debe decidir que recursos electrónicos se utilizaran.
+- También se deben de especificar las cadenas de busqueda.
+- IEEE Xplore y ACM Digital Library cubren gran parte del area.
+- Scopus y Web of science indexan IEEE, ACM, Elsevier, Springer y Willey.
+- Muchos artículos requieren suscripción para acceder al texto completo.
+- Las fuentes permiten exportar referencias en BibTeX, RIS o EndNote.
+
+** Validación de la búsqueda: pasos 1 y 2
+*** Pasos 1:
+- Identifica revistas, congresos y bibliotecas digitales relevantes.
+- Se eligen las fuentes con más probabilidad de publicar sobre el tema.
+
+*** Paso 2:
+- Formar un quasi-gold standard mediante busqueda manual.
+- Se revisan las fuentes elegidas en un periodo de tiempo limitado.
+- Se aplicaron los criterios de inclusión y exclusión ya definidos.
+- Primero se revisa el título y el resumen de cada documento.
+- Si hay dudas, se revisan otras partes o el documento completo.
+
+*** Paso 3:
+- Definir cadenas de busqueda para las fuentes seleccionadas.
+- Pueden definirse con el conocimiento y la experiencia del revisor.
+- También pueden obtenerse de los términos presentes en el QGS.
+
+*** Paso 4:
+- Ejecutar la busqueda automatizada con las cadenas definidas.
+
+*** Paso 5:
+- Comparar los resultados de la busqueda automatizada con el QSG.
+- Si la cadena no encuentra el QGS, se ajusta y se repite la prueba.
+
+** Recall y precisión
+- Son dos criterios para evaluar la completitud de la busqueda.
+- Recall: estudios del QGS recuperados / total de estudios del QGS.
+- Precisión: estudios relevantes recuperados / total de recuperados.
+
+- Recall de 1.0 indica que se encontro todo el QGS pero no indica cuantos resultados irrelevantes aparecieron.
+- Una precisión de 1.0 indica que todos los resultados son relevantes pero no indica si faltaron estudios relevantes.
+
+- Se sugiere un recall de 80-99% y una precisión de 20-25% minimo 7%.
