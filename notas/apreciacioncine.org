@@ -99,6 +99,8 @@
   - Greed (1924)
   - Rapiña ()
 
+** Musical
+
 ** Estructuras del cine
 *** Clasica - Aristotelica
 - 3 actos
@@ -132,3 +134,41 @@
     - Premonicion es un amplio salto en el futuro de la historia para regresar a la narracion inicial.
     - Raconto el relato comienza con la parte final del desenlace y luego retrocede al planteamiento de la historia para proseguir de forma ordenada hasta el final.
       - Tomates verdes fritos
+
+- Arcos de personaje
+  - Es el cambio o transformacion del principio al final de la historia, puede ser el protagonista o antagonista, o incluso algun personaje secundaria.
+  - Los arcos pueden ser:
+    - Subjetivos: Evolucion moral, de valores, ideologica, psicologica (a nivel interno).
+    - Neutro: El personaje permanece igual, estatico, plano o sin arco.
+
+  - Valores narrativos: Son las cualidades universales de la experiencia humana que pueden cambiar de positivo a negativo o de negativo a positivo de un momento a otro. Podrian ser morales, eticos, religiosos, mundanos, sociales, civicos, medicos o de cualquier otra clase.
+
+  - Arco del personaje: Es el cambio o transformacion del personaje del principio al final de la historia.
+
+  - Objetivo: Transformacion exterior o evolucion exterior, fisica. Implica cambios en las circunstancias y situacion del personaje que no repercuten en sus valores o caracteres.
+
+  - Progresion del arco
+    - Arco ascendente o positivo: De malo a bueno (mejora al final) final feliz. El personaje evoluciona hacia una situacion.
+    - Arco descendente o negativo: de bueno a malo. Se encamina hacia unas circunstancias adversas.
+    - De malo a peor, final tragico: El personaje evoluciona hacia una situacion peor que la inicial y la historia tiene un final tragico.
+    - Arco objetivo-negativo: De vivo a muerto, por ejemplo por una enfermedad terminal.
+    - Arcos traumaticos o temperamentales: Quienes viven una crisis asi experimentan un cambio de personalidad tan definitivo que podemos hablar realmente del nacimiento de una nueva persona.
+
+  - In media rest
+
+
+- Don Bluth
+  - Anastacia
+
+- Lars Von Trier
+  - Dancer in the Dark
+
+- Chicago
+- Mouling Rouge
+- Hairspray
+- Hoy no me puedo levantar
+- Mamma mia
+- Lalaland
+- The Greatest Showman
+
+- Plano Secuencia
