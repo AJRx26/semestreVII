@@ -1,5 +1,11 @@
 from datetime import date
 
+MIN_DAY = 1
+MAX_DAY = 31
+MIN_MONTH = 1
+MAX_MONTH = 12
+MIN_YEAR = 1900
+
 #Funcion que pide un numero entero entre un rango especifico que se repite hasta que sea valido 
 def pedir_numero(nombre, minimo, maximo):
     while True:
@@ -18,6 +24,7 @@ def pedir_numero(nombre, minimo, maximo):
             if not texto.isdigit():  # letras, símbolos, espacios intermedios, etc.
                 raise ValueError("solo puede contener dígitos (sin letras ni símbolos).")
 
+            #manejo de errores si se pasa del rango establecido
             valor = int(texto)
             if not minimo <= valor <= maximo:
                 raise ValueError(f"debe estar entre {minimo} y {maximo}.")
@@ -43,9 +50,9 @@ def menu():
     print("Calculadora de edad")
     try:
         while True:
-            day = pedir_numero("día", 1, 31)
-            month = pedir_numero("mes", 1, 12)
-            year = pedir_numero("año", 1, date.today().year)
+            day = pedir_numero("día", MIN_DAY, MAX_DAY)
+            month = pedir_numero("mes", MIN_MONTH, MAX_MONTH)
+            year = pedir_numero("año", MIN_YEAR, date.today().year)
             try:
                 edad = calcular_edad(day, month, year)
             except ValueError as e:
