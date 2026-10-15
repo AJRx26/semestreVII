@@ -467,7 +467,28 @@
 - Recall: estudios del QGS recuperados / total de estudios del QGS.
 - Precisión: estudios relevantes recuperados / total de recuperados.
 
-- Recall de 1.0 indica que se encontro todo el QGS pero no indica cuantos resultados irrelevantes aparecieron.
+- Recall de 1.0 indica que se encontró todo el QGS pero no indica cuantos resultados irrelevantes aparecieron.
 - Una precisión de 1.0 indica que todos los resultados son relevantes pero no indica si faltaron estudios relevantes.
 
-- Se sugiere un recall de 80-99% y una precisión de 20-25% minimo 7%.
+- Se sugiere un recall de 80-99% y una precisión de 20-25% mínimo 7%.
+
+** Selección de estudios primarios
+- Define que estudios se incluyen y cuales se descartan.
+- Se especifican los criterios de inclusión y de exclusión.
+- También se especifica el procedimiento para aplicarnos.
+- Los criterios deben de relacionarse con las preguntas de investigación.
+- El PICOC ayuda a redactarlos: población, intervención y contexto.
+- Cada criterio se asigna a la fase en la que se puede verificar.
+- Se recomienda una prueba piloto con una muestra de estudios.
+
+** Selección por etapas
+- Los criterios se aplican en fases, y cada fase se describe. Por ejemplo:
+  1. Fase: filtros del motor de busqueda (año, idioma, tipo de documento).
+  2. Fase: lectura del titulo y el resumen de cada estudio.
+  3. Fase: revisión del texto completo y eliminación de duplicados.
+
+- Son duplicados los que tienen el mismo titulo o la misma contribución.
+- La misma contribución solo se identifica al leer el texto completo.
+- En cada fase se registra cuantos estudios se excluyen y por qué.
+
+- Semantic Scholar
