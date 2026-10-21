@@ -156,6 +156,41 @@
 
   - In media rest
 
+**** Viaje del Heroe
+1. Mundo ordinario
+2. Llamado a la aventura
+3. Encuentro con el mentor
+4. Obstaculos
+5. Aliados y antogonistas
+6. Caverna
+7. Batalla final
+8. La apoteosis
+9. Mundo ordinario transformado
+
+**** El guion
+- Tipografia: Courier
+***** Partes del guion
+- Encabezado: INT/EXT - Lugar donde ocurre la acción - DIA/NOCHE
+- Acción: Describir la escena en tiempo presente, los movimientos del personaje en el escenario, gestos exceptuando los sentimientos, usando mayormente verbos. Nombres siempre en mayuscula.
+- Evitar parrafos largos.
+- Evitar vicios como "Entonces" o "De repente" como recurso de suspense.
+- Notaciones:
+  - OFF SCREEN (O.F.): No aparece en escena.
+  - VOICE OVER (V.O.): Voz en off, a modo de narrador.
+- FLASHBACK: Aun lado del encabezado en parentesis.
+- Secuencias de montaje: Escenas rapidas de montaje.
+- Sonidos: Sonidos con mayusculas.
+
+***** Estructura maestra de montaña rusa
+- En cada acto sucede un momento de alta tension. Se caracteriza por la resolucion de un conflicto en contra reloj, las circunstancias del conflicto estan dadas por las condiciones de las situaciones y al personaje protagonico.
+
+***** Estructura maestra del replay
+- Se caracteriza por el surgimiento del conflicto reside en las decisiones del personaje, flashbacks, personajes arquetipicos y profundos.
+
+***** Estructura narrativa inversa
+- La historia comienza por el final, y ya avanzando hacia el principio. Es una estructura compleja tanto para un creador, como para un espectador.
+
+- In media res: El relato parte desde un intermedio de la historia.
 
 - Don Bluth
   - Anastacia

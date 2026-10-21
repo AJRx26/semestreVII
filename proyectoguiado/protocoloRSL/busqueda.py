@@ -30,7 +30,7 @@ freq_total = Counter()   # veces que aparece cada palabra en total
 freq_docs = Counter()    # en cuántos artículos aparece
 bigramas = Counter()     # pares de palabras consecutivas
 
-pdfs = glob.glob("ArticulosPrimarios/ACM/*.pdf", recursive=True)
+pdfs = glob.glob("ArticulosPrimarios/ScienceDirect/*.pdf", recursive=True)
 print(f"Procesando {len(pdfs)} PDF...")
 
 for ruta in pdfs:
