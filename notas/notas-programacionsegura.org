@@ -9,7 +9,7 @@
 - Exámenes: 20% (dos parciales, con calificación mínima de 6)
 - Actividad en clase: 10%
 
-* Introducción
+** Introducción
 - Que es la seguridad?
 - Que es la ciberseguridad?
 - En que se diferencia la seguridad con la ciberseguridad?

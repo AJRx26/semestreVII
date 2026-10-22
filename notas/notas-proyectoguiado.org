@@ -492,3 +492,9 @@
 - En cada fase se registra cuantos estudios se excluyen y por qué.
 
 - Semantic Scholar
+
+** Analisis y sintesis
+- Analisis: Procedimiento sistematico para obtener los datos.
+- Sintesis: Proceso que reune los hallazgos de los resultados de los estudios incluidos
+- La sintesis es el elemento clave de una revision sistematica.
+-
