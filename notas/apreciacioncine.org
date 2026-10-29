@@ -192,6 +192,17 @@
 
 - In media res: El relato parte desde un intermedio de la historia.
 
+***** Racconto
+- El relato comienza con la parte filan del desenlace y luego retrocede al planteamiento de la historia para proseguir de forma ordenada hasta al final.
+- El racconto es una retrospectiva prolongada hacia un momento largo del pasado de la narracion que se relata de forma entera, incluso aportando detalles significativos.
+
+***** Estructura maestra de todos los caminos o contrapunto
+- La historia se construye con personajes vinculados entre si a partir de un hecho.
+- Presenta una historia desde diferentes perspectivas con una meta o conflicto.
+
+***** Estructura maestra de destino (pez o circular)
+- El inicio de la historia es el mismo que el final, presenta una version ciclica del argumento.
+
 - Don Bluth
   - Anastacia
 
