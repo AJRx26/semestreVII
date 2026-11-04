@@ -101,6 +101,21 @@
 
 ** Musical
 
+** Cine infantil
+- Por su tematica va dirigido a los niños, con fines didacticos o de entretenimiento, basados en situaciones de la vida real o ficciones, por lo general presentadas en dibujos animados, filmaciones, etc.
+- Primera pelicula infantil "Peter Pan" (1924) de Herbert Brenon.
+
+*** Cine de animación
+- Se define como una tecnica que sustituye la filmación de actores y escenarios por el uso de ilustraciones, muñecos articulados o planos infograficos o computarizados, animados, fotograma por fotograma, hasta lograr la sensación de movimiento.
+
+** Cine Western
+- Relata historias relacionados con la conquista y colonización de los territorios occidentales de Estados Unidos. Uno de los generos más cinematograficos.
+- Se caracteriza por la iconografia. Esa civilización representa el imperio del orden y la armonía.
+- Se considera uno de los generos fundamentales.
+
+- Spaghetti Western -> Italiano
+- Chilli Western -> Mexicano
+
 ** Estructuras del cine
 *** Clasica - Aristotelica
 - 3 actos
