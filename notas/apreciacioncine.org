@@ -116,6 +116,22 @@
 - Spaghetti Western -> Italiano
 - Chilli Western -> Mexicano
 
+** Cine de aventura y accion
+- Se trata de un modelo dramatico sin una ambientacion especifica.
+  - Tratamiento intrascendente.
+  - Escenas de mucha accion.
+  - Los personajes luchan por un objetivo.
+  - Premisa.
+  - Protagonistas atraviesan por obstaculos y sufren una transformacion.
+  - La accion ocurre alejada de los espacios cotidianos.
+  - La accion suele pasar en el pasado.
+
+** Cine de accion
+- Da dinamismo a las peliculas y emocionan al espectador.
+- Prima la espectacularidad de las imagenes por medio de efectos especiales dejando al margen cualquier otra consideracion.
+- Relato esquematico.
+- Personajes arquetipicos.
+
 ** Estructuras del cine
 *** Clasica - Aristotelica
 - 3 actos
@@ -217,6 +233,12 @@
 
 ***** Estructura maestra de destino (pez o circular)
 - El inicio de la historia es el mismo que el final, presenta una version ciclica del argumento.
+
+***** Estructura maestra paralela (estructura brechtiana)
+- Tratamiento a diferentes historias con nexo tematico qeu suceden en mismo tiempo diegetico, se mezclan los tiempos sin continuidad aparente.
+
+*****
+
 
 - Don Bluth
   - Anastacia
