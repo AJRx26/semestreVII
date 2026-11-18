@@ -237,7 +237,63 @@
 ***** Estructura maestra paralela (estructura brechtiana)
 - Tratamiento a diferentes historias con nexo tematico qeu suceden en mismo tiempo diegetico, se mezclan los tiempos sin continuidad aparente.
 
-*****
+***** Estructura maestra episodica
+- Presenta los acontecimientos de la historia por capitulos o episodios que pueden resultar ajenos entre si, pero que abordan la misma tematica, forman un todo en su conjunto. En ella se segmentan las situaciones que viviran el protagonico o protagonicos.
+  - Cats Eye
+  - Historias violentas
+  - Playground
+
+***** Estructura maestra "trozo de vida"
+- Se rechazan los tres actos y los personajes son complejos o arquetipicos.
+- Como su nombre dice solo muestra un corte de tiempo en la vida del protagonista.
+  - Un mundo secreto
+
+***** Antiestructura, anti-background aristotelico, antiaristotelica
+- Es de caracter reflexivo y contemplativo.
+- Plantea una relacion entre la realidad y la ficcion.
+- Sucede una realidad fraccionada e incluso el publico puede incidir sobre la historia.
+- No es guiada por un tiempo no lineal y es probable que sea incoherente.
+  - Yo soy la felicidad de este mundo
+  - On the road
+
+***** Diegesis
+- Estructurar una realidad pero tambien como la construccion mental elaborada por el espectador del film.
+- La diegesis es el mundo (ficticio) en el que ocurren las situaciones y acontecimientos narrados.
+- Es una construccion imaginaria, el espacio y el tiempo ficcional en el que opera la pelicula, el universo asumido en el que tiene lugar la narracion.
+  - Fleabag
+
+***** Anagnorisis
+- Accion de reconocer
+- Se refiere a un momento de compresion en la trama de una historia en el que un personaje, normalmente el protagonista.
+- Puede ser una toma de conciencia sobre el propio personaje, su situacion o algo sobre otro personaje.
+- Este conocimiento siempre provoca sorpresa y lleva consigo unas consecuencias funestas o felices.
+- Es una figura retorica utilizada en la tragedia.
+- Relacionado con el elemento del guion de promesa y cumplimiento.
+- Puede ser una fuente de humor para el publico y producir un efecto comico.
+- Puede comenzar de diferentes maneras:
+  - Imagen
+  - Palabra
+  - Frase
+  - Recuerdo
+  - Informacion
+  - Silogismo
+  - Sospecha
+  - Prueba
+
+- My mom Jayne
+
+****** Funciones
+1. Provocar conflictos en el mundo interior del personaje.
+2. Reconocer la identidad de un sujeto.
+3. Impactar al publico con una revelacion al final de la pelicula.
+
+****** Tipos
+- Descubrimiento
+- Suplantacion de la identidad
+- Complicidad guionista-espectador
+
+***** Elipsis
+- Salto en el tiempo omitido en la narracion con el fin de ahorrar los momentos muertos o sin interes, o de dosificar una informacion importante que mostraremos mas tarde.
 
 
 - Don Bluth
